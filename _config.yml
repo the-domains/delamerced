@@ -1,0 +1,23 @@
+name: delamerced
+favicon: null
+layout_spectrum: 0.027732396265491843
+typography_spectrum: 0.4457322293892503
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.27221526694484055
+  lightness: 0.04624450393021107
+  saturation: 0.4939591290894896
+  rhythmicContrast: 0.22131977579556406
+purpose: []
